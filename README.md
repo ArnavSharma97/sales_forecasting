@@ -1,8 +1,3 @@
-Below is a **clean, submission-ready `README.md`** that you can include alongside your notebook and data files.
-It is written in a **formal academic–industry hybrid tone**, explicitly mapped to the **evaluation rubric**, and explains **how to run, what to expect, and how to justify choices**.
-
-You can copy-paste this **as is** into a file named `README.md`.
-
 ---
 
 # Rossmann Store Sales Forecasting
